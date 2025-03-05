@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is Dev-Ops Junoon 2025 (Booommm) 🔥
+          This is Dev-Ops Junoon 2025 Zero to Hero 🔥
         </p>
         <a
           className="App-link"
