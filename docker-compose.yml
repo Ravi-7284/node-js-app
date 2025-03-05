@@ -20,7 +20,7 @@ services:
       start_period: 60s
 
   node-app:
-    image: my-node-app:slim
+    image: ravigampawar/my-node-app:slim
     container_name: node-app
     ports:
       - "3000:3000"
