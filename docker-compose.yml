@@ -21,7 +21,7 @@ services:
 
   node-app:
     image: my-node-app:slim
-    container_name: flask-app
+    container_name: node-app
     ports:
       - "3000:3000"
     environment:
